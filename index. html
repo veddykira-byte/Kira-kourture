@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Kira Kouture Fashion</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            margin: 0;
+
+            background-color: #f8f0f5;
+
+        }
+
+        header {
+
+            background-color: black;
+
+            color: white;
+
+            text-align: center;
+
+            padding: 20px;
+
+        }
+
+        nav {
+
+            background-color: #333;
+
+            text-align: center;
+
+            padding: 10px;
+
+        }
+
+        nav a {
+
+            color: white;
+
+            margin: 10px;
+
+            text-decoration: none;
+
+            font-weight: bold;
+
+        }
+
+        section {
+
+            padding: 20px;
+
+            text-align: center;
+
+        }
+
+        .gallery img {
+
+            width: 200px;
+
+            margin: 10px;
+
+            border-radius: 10px;
+
+        }
+
+        footer {
+
+            background-color: black;
+
+            color: white;
+
+            text-align: center;
+
+            padding: 10px;
+
+            margin-top: 20px;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>Kira Kouture Fashion</h1>
+
+    <p>Stylish | Elegant | Modern Designs</p>
+
+</header>
+
+<nav>
+
+    <a href="#home">Home</a>
+
+    <a href="#about">About</a>
+
+    <a href="#gallery">Gallery</a>
+
+    <a href="#contact">Contact</a>
+
+</nav>
+
+<section id="home">
+
+    <h2>Welcome</h2>
+
+    <p>Welcome to Kira Kouture Fashion — where creativity meets elegance.</p>
+
+</section>
+
+<section id="about">
+
+    <h2>About Us</h2>
+
+    <p>
+
+        We design modern fashion outfits inspired by beauty, culture, and creativity.
+
+        Our goal is to bring unique styles to everyone.
+
+    </p>
+
+</section>
+
+<section id="gallery">
+
+    <h2>Fashion Gallery</h2>
+
+    <div class="gallery">
+
+        <img src="image4571.jpeg" alt="fashion1">
+
+        <img src="image4572.jpeg" alt="fashion2">
+
+        <img src="image4574.jpeg" alt="fashion3">
+<video width="400" controls>
+<source src="v09044g40000d403r87og65gn7vnrdqgmp4"type="video/mp4">
+</video>
+
+
+    </div>
+""
+</section>
+
+<section id="contact">
+
+    <h2>Contact Us</h2>
+
+    <p>Email: kirakouture@example.com</p>
+
+    <p>Phone: +254 700 000 000</p>
+
+</section>
+
+<footer>
+
+    <p>&copy; 2026 Kira Kouture Fashion. All rights reserved.</p>
+
+</footer>
+
+</body>
+
+</html>
